@@ -22,7 +22,7 @@ EliteBook 830 G5 running Mojave 10.14.6 & Windows 10 1809 <br>
 * HDMI Out
 * HP Sure View (makes your screen difficult for onlookers to view from the sides)
 * Bluetooth
-* WiFi(with Boot "brckfx-driver=1"),it will reslut os freezing , set brckfx-driver=3 default
+* WiFi
 ## Doesn't Work/Not tested
 * HP Webcam
 * Joystick Mouse
