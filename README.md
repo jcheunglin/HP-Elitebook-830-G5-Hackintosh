@@ -29,5 +29,5 @@ EliteBook 830 G5 running Mojave 10.14.6 & Windows 10 1809 <br>
 * Smart Card Reader
 ## Bios Settings
 Plz refer to [kinoute](https://github.com/kinoute/Hack-HP-EliteBook-850-G5)<br>
+Disable Vtd & Vtx(Virtual Tech )
 Thanks a lot for kinoute'efi
-
