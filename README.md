@@ -23,7 +23,7 @@ EliteBook 830 G5 running Mojave 10.14.6 & Windows 10 1809 <br>
 * HP Sure View (makes your screen difficult for onlookers to view from the sides)
 * Bluetooth<br>
 it will not be available when wake up from sleep,eventually cause the laptop to crash both in Win & Mac ,
- so i disable it in bios setting. turn off wifi and bt then on if laptop encounter this problem
+ so i disable it in bios setting. turn off wifi and bt then on in bios if laptop encounter this problem
 * WiFi
 ## Doesn't Work/Not tested
 * HP Webcam
