@@ -14,7 +14,7 @@ EliteBook 830 G5 running Mojave 10.14.6 & Windows 10 1809 <br>
 * Headphones output
 * Trackpad with gestures
 * USB 3 Ports
-* USB-C (tested with a HP Docking station, see [below](#Dock))
+* USB-C 
 * LAN/Ethernet
 * Fn keys to change volume or brightness
 * Battery percentage/status
