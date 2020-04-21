@@ -1,5 +1,5 @@
 # HP-EliteBook-830-G5 Hackintosh
-EliteBook 830 G5 running Mojave 10.14.6 & Windows 10 1809 <br>
+EliteBook 830 G5 running Catlina 10.15.4 & Windows 10 1903 <br>
 ![image.png](attachment:image.png)
 
 ## Specs
@@ -22,8 +22,6 @@ EliteBook 830 G5 running Mojave 10.14.6 & Windows 10 1809 <br>
 * HDMI Out
 * HP Sure View (makes your screen difficult for onlookers to view from the sides)
 * Bluetooth<br>
-it will not be available when wake up from sleep,eventually cause the laptop to crash both in Win & Mac ,
- so i disable it in bios setting. turn off wifi and bt then on in bios if laptop encounter this problem
 * WiFi
 ## Doesn't Work/Not tested
 * HP Webcam
@@ -31,5 +29,5 @@ it will not be available when wake up from sleep,eventually cause the laptop to 
 * Smart Card Reader
 ## Bios Settings
 * Plz refer to [kinoute](https://github.com/kinoute/Hack-HP-EliteBook-850-G5)<br>
-* Disable Vtd & Vtx(Virtual Tech )<br>
+
 ## Thanks a lot for kinoute's efi
